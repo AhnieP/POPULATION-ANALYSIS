@@ -94,9 +94,58 @@ Performed in **Power BI**:
 - Elevated BMI strongly linked with diabetes, arthritis, and lower general health scores.
 - Overweight individuals benefit from targeted wellness interventions.
 
+---           |
+
+## ✅ 11. Dashboard
+
+## 📊 Dashboard Overview
+
+The **Population Analysis Dashboard** provides a comprehensive view of health patterns across demographic segments. Built using Power BI, it enables dynamic filtering by **Age Category**, **Sex**, **Race**, **Disability Status**, and **State**, empowering users to uncover population health disparities and risk profiles.
+
+### 🧾 Key Sections:
+
+- **Demographics Panel**  
+  Displays total population size (246K) with gender distribution (Male: 48%, Female: 52%).
+
+- **Chronic Conditions by Age Category**  
+  Visualizes the prevalence of chronic diseases, highest among older adults (65+).
+
+- **Health Metrics by Lifestyle**  
+  - **Mental Health Days by Smoking & Alcohol Use**  
+    Highlights higher mental health burden among current smokers and alcohol users.
+  - **Physical Activity vs. Health**  
+    Shows better physical and mental health days among active individuals.
+
+- **Vaccination Rates by Health Metrics**  
+  Illustrates trends across general health categories, with improved uptake among healthier groups.
+
+- **General & Mental Health by Age and Sex**  
+  - Females report slightly worse physical and mental health.
+  - Younger age groups (18–34) report more general health days.
+
+- **BMI by General Health Rating**  
+  Reveals a decrease in BMI as self-rated health improves, indicating a correlation between healthy weight and positive health perception.
+
+### 🔍 Interactive Filters:
+- Age Category
+- Race
+- Sex
+- Disability Status
+- U.S. States
+
 ---
 
-## ✅ 11. Recommendations
+This dashboard supports **health equity analysis** and **targeted intervention planning**, helping stakeholders identify at-risk groups and design effective preventive strategies.
+
+- ![POPULATION ANALYSIS (HOME PAGE)](https://github.com/user-attachments/assets/b9867db5-b023-49fb-9b9d-7b754392d0ba)
+- ![POPULATION ANALYSIS](https://github.com/user-attachments/assets/920cd74e-a25c-48e4-a206-78c0dc1987da)
+
+
+## ✅ 12. 📁 Project Access Template
+
+- Use the Power BI Desktop (latest version) to view project [here](https://app.powerbi.com/groups/me/reports/daf63fef-a9b9-4b82-859d-03965326cb2d?ctid=43b41731-b631-4e1d-9c02-d28ae0282fdc&pbi_source=linkShare)
+
+## ✅ 13. Recommendations
 
 | **Theme**              | **Recommendation**                                                           | **Action**                                                                 |
 |------------------------|-------------------------------------------------------------------------------|------------------------------------------------------------------------------|
@@ -105,17 +154,6 @@ Performed in **Power BI**:
 | **Health Behaviors**    | Reduce smoking and alcohol intake; promote physical activity                  | Use mobile health apps, social media outreach, and wellness campaigns       |
 | **Mental Health**       | Address high mental health days, especially among smokers and chronic patients| Expand telehealth and provide behavioral therapy access                     |
 | **State Health Equity** | Target interventions to underperforming states and regions                   | Develop localized strategies informed by state-level disparity analysis     |
-| **Predictive Monitoring**| Use historical data to proactively flag high-risk individuals               | Build and deploy early-warning dashboards using Power BI and DAX            |
-
-## ✅ 12. 📊 Dashboard Overview
-- ![POPULATION ANALYSIS (HOME PAGE)](https://github.com/user-attachments/assets/b9867db5-b023-49fb-9b9d-7b754392d0ba)
-- ![POPULATION ANALYSIS](https://github.com/user-attachments/assets/920cd74e-a25c-48e4-a206-78c0dc1987da)
-
-
-## ✅ 13. 📁 Project Access Template
-
-- Use the Power BI Desktop (latest version) to view project [here](https://app.powerbi.com/groups/me/reports/daf63fef-a9b9-4b82-859d-03965326cb2d?ctid=43b41731-b631-4e1d-9c02-d28ae0282fdc&pbi_source=linkShare)
-
-
+| **Predictive Monitoring**| Use historical data to proactively flag high-risk individuals               | Build and deploy early-warning dashboards using Power BI and DAX 
 
 ``
