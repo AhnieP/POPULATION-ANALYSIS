@@ -1,4 +1,4 @@
-# POPULATION-ANALYSIS (POWER BI)  ![Population Icon](https://img.icons8.com/ios-filled/100/group-foreground-selected.png) 
+# U.S. POPULATION HEALTH BURDEN ANALYSIS (POWER BI)  ![Population Icon](https://img.icons8.com/ios-filled/100/group-foreground-selected.png) 
 A data-driven project focused on analyzing demographic, behavioral, and health-related factors across U.S. states and territories to uncover health disparities, track chronic conditions, and inform public health strategies using Power BI.
 # 📊 Population Analysis Analysis
 
@@ -48,7 +48,7 @@ Modern healthcare demands data-driven decision-making to improve outcomes, reduc
 
 ## 🌐 6. Data Sources
 
-Data is derived from publicly accessible U.S. government health surveillance databases, covering populations across US states and territories.
+Data is derived from publicly accessible health surveillance databases, covering populations across US states and territories, available [here] (https://ghdx.healthdata.org/ihme_data). 
 
 ---
 
