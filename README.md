@@ -48,7 +48,7 @@ Modern healthcare demands data-driven decision-making to improve outcomes, reduc
 
 ## 🌐 6. Data Sources
 
-Data is derived from publicly accessible health surveillance databases, covering populations across US states and territories, available [here] (https://ghdx.healthdata.org/ihme_data). 
+Data is derived from publicly accessible health surveillance databases, covering populations across US states and territories, available [here](https://ghdx.healthdata.org/ihme_data). 
 
 ---
 
