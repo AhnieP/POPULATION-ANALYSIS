@@ -138,8 +138,8 @@ The **Population Analysis Dashboard** provides a comprehensive view of health pa
 This dashboard supports **health equity analysis** and **targeted intervention planning**, helping stakeholders identify at-risk groups and design effective preventive strategies.
 
 - ![Screenshot 2025-06-27 095030](https://github.com/user-attachments/assets/08237933-d7d6-4a30-adb6-d1aef136d997)
-
-
+- ![Screenshot 2025-06-27 095048](https://github.com/user-attachments/assets/c71e6746-f7b0-4f38-8d72-540bd1bb5000)
+- ![Screenshot 2025-06-27 095105](https://github.com/user-attachments/assets/f609977a-bb93-4f35-90b7-a0fad7c41b7d)
 
 ## ✅ 12. 📁 Project Access Template
 
